@@ -1,0 +1,162 @@
+body
+{
+    background: url(bg-1.jpg) no-repeat;
+    background-size: cover;
+}
+.one
+{
+    text-align: center;
+    margin-top: 16%;
+    
+}
+.one h1
+{
+    font-family: 'Sacramento', cursive;
+    font-size: 3.2rem;
+    letter-spacing: 3px;
+    margin-bottom: 8px;    
+}
+.one h5
+{
+    font-size: 1rem;
+    color: lavender;
+    margin-top: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
+.image
+{
+    width: 200px;
+    height: 200px;
+    
+}
+.two
+{
+    text-align: center;
+    margin-top: 17%;
+}
+.intro
+{
+    color: lavender;
+    text-align: justify;
+    width:450px;
+    margin: 0 auto;
+    font-size: 1.2rem;
+}
+.spe
+{
+    width: 500px;
+}
+.chilli
+{
+    
+    margin-top: 5%;
+    float: left;
+    position: relative;
+    left: 15%;
+}
+.hob
+{
+    margin-top: 7%;
+    display: inline-block;
+    position: relative;
+    right: 19.5%;
+    font-family: cursive;
+}
+.coding-image
+{
+    margin-top: 5%;
+    float: right;
+    position: relative;
+    right: 15%;
+}
+.coding
+{
+    margin-top: 7%;
+    display: inline-block;
+    position: relative;
+    right: 5.5%;
+    font-family: cursive;
+}
+.three
+{
+    margin-top: 7%;
+    color: lavender;
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+.anchor
+{
+    text-decoration: none;
+    color: gray;
+    padding: 25px;
+    color:gray;
+    font-size: 1.2rem;
+    display: inline-block;
+    margin-top: 10px;
+    transition: 0.52s;
+}
+.anchor:hover
+{
+    color:lavender;
+}
+h4
+{   
+    margin: 0 auto;
+    margin-top: 10%;
+    letter-spacing: 2px;
+    color: lavender;
+    font-size: 1.4rem;
+}
+.contact-1
+{
+    margin-top: 1.5%;
+    position: relative;
+    
+}
+.contact
+{
+    position: relative;
+    left: 25px;
+}
+.copyright
+{
+    margin-top: 2px;
+}
+.font
+{
+    font-family: cursive;
+}
+.two h1
+{
+    font-family: 'Alegreya', serif;
+}
+hr
+{
+    border-style: dotted;
+    border: hidden;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 7px;
+    color: lightgray;
+    margin-top: 10%;
+
+}
+.sara
+{
+    text-decoration: none;
+    transition: 0.30s;
+    font-style: italic;
+    color: lavender;
+}
+.sara:hover
+{
+    color:blue;
+}
+.span
+{
+    color: lightgrey;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.2rem;
+    padding-left: 11%;
+}
